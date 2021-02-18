@@ -33,5 +33,10 @@ Nobel Prizes, named after Alfred Nobel, are prizes awarrded in five different fi
 ## Dataset
 [(Back to top)](#table-of-contents)
 
+[Link](https://www.kaggle.com/nobelfoundation/nobel-laureates) to the dataset (.csv format)
+
+
 ## License
 [(Back to top)](#table-of-contents)
+
+GNU General Public License, version 3 (GPLv3)
