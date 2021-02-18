@@ -30,6 +30,8 @@ Nobel Prizes, named after Alfred Nobel, are prizes awarrded in five different fi
 ## Installation
 [(Back to top)](#table-of-contents)
 
+Majority of the work done on Jupyter Notebook and hosted on nbviewer
+
 1. Install [Anaconda](https://www.anaconda.com) and all necessary libraries ( pandas, scikit-learn, numpy, matplotlib etc) 
 2. Install [Seaborn](https://seaborn.pydata.org) for data visualizations 
 3. Install [Altair](https://altair-viz.github.io)
