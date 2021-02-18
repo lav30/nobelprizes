@@ -46,4 +46,5 @@ Majority of the work done on Jupyter Notebook and hosted on nbviewer
 [(Back to top)](#table-of-contents)
 
 GNU General Public License, version 3 (GPLv3)
+
 Banner created using [Canva](https://www.canva.com)
