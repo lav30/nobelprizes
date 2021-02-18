@@ -28,10 +28,10 @@ Nobel Prizes, named after Alfred Nobel, are prizes awarrded in five different fi
 [(Back to top)](#table-of-contents)
 
 ## Installation
-[(Back to top)](#installation)
+[(Back to top)](#table-of-contents)
 
 ## Dataset
-[(Back to top)](#dataset)
+[(Back to top)](#table-of-contents)
 
 ## License
-[(Back to top)](#license)
+[(Back to top)](#table-of-contents)
