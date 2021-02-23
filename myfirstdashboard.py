@@ -50,7 +50,7 @@ app.layout = html.Div(children=[
         '''),
 
         dcc.Graph(
-            id='graph1',
+            id='graph0',
             figure=fig0
         ),
     ]),
@@ -63,7 +63,7 @@ app.layout = html.Div(children=[
         '''),
 
         dcc.Graph(
-            id='graph2',
+            id='graph1',
             figure=fig1
         ),
     ]),
@@ -71,11 +71,11 @@ app.layout = html.Div(children=[
         html.H1(children='Bar Graph : Years and Age '),
 
         html.Div(children='''
-            Bar graph plotted over the years, indexed by category names. Colors represent categories annd number of bars represent number of awardees in a category for that year.
+            Bar graph plotted over the years, indexed by category names. Colors represent categories and number of bars represent number of awardees in a category for that year.
         '''),
 
         dcc.Graph(
-            id='graph3',
+            id='graph2',
             figure=fig2
         ),
     ]),
@@ -88,7 +88,7 @@ app.layout = html.Div(children=[
         '''),
 
         dcc.Graph(
-            id='graph4',
+            id='graph3',
             figure=fig3
         ),
     ]),
@@ -101,20 +101,20 @@ app.layout = html.Div(children=[
         '''),
 
         dcc.Graph(
-            id='graph5',
+            id='graph4',
             figure=fig4
         ),
     ]),
 
     html.Div([
-        html.H1(children='Box Plot : Gender based Visualizations over 5 Categories'),
+        html.H1(children='Box Plot : Gender based Visualizations over the Categories'),
 
         html.Div(children='''
             Box plot displaying gender related vizualizations over all categories. Hover on the graphs for median, min, max, Q1 and Q3 values for each category and gender.
         '''),
 
         dcc.Graph(
-            id='graph6',
+            id='graph5',
             figure=fig5
         ),
     ]),
@@ -123,11 +123,11 @@ app.layout = html.Div(children=[
         html.H1(children='Scatter Plot with Animations'),
 
         html.Div(children='''
-            Age and category related scatter plot over the years. Slide the bar for changes in visualizations over the years.
+            Year and age related scatter plot with a sliding bar to show data over the years. Slide the bar from left to right.
         '''),
 
         dcc.Graph(
-            id='graph7',
+            id='graph6',
             figure=fig6
         ),
     ]),
