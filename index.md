@@ -16,6 +16,8 @@
 - Females are more likely to receive a Nobel Prize in Peace or Literature
 - Females awarded too few Physics and Economics awards to produce a box plot. 
 
+# Images
+
 
 ### 2. By Category
 
@@ -25,12 +27,24 @@
 
 ### 3. By Age 
 
-- 
+- Economics and Literature have the highest median age to receive a Nobel Prize.
+- Physics laureates are the youngest among all prize categories.
+
+
+# Images
+
+![](TL.png)
+
 
 
 ### 4. General Observations 
 
 - Individuals born in the United States have been awarded the most number of prizes in Science categories.
+-
+-
+-
+
+
 
 
 
