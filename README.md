@@ -8,7 +8,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 ## Table of Contents
 
-- [Dashboard Link](dashboard-link)
+- [Dashboard Website](dashboard-website)
 - [Portfolio](#portfolio)
 - [Project Motivation](#project-motivation)
 - [Table of Contents](#table-of-contents)
@@ -16,7 +16,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 - [Dataset](#dataset)
 - [License](#license)
 
-## Dashboard Link
+## Dashboard Website
 
 [Link](https://nobelprizedash.herokuapp.com) to the dashboard website, developed using [Plotly](https://plotly.com) and deployed using [Heroku](https://www.heroku.com/home) 
 
