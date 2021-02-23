@@ -29,9 +29,6 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 Nobel Prizes are prizes awarded in different fields for contributions in Science, Medicine, Economics and Peace. Scientists and activists deemed to have made significant contributions to the advancement of science and the betterment of humankind are awarded these coveted prizes every year. This project focuses on exploring the different factors that have had a significant impact of who has received these awards and also focuses on the gender disparity in the total number of awards bestowed over a hundered years. 
 
-## Table of Contents
-[(Back to top)](#table-of-contents)
-
 ## Installation
 [(Back to top)](#table-of-contents)
 
