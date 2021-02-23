@@ -19,7 +19,7 @@
 
 ### 2. By Category
 
-- Median age lower for femaales in Chemistry, Peace and Physics.
+- Median age lower for females in Chemistry, Peace and Physics.
 - 
 
 
