@@ -33,7 +33,7 @@
 
 # Images
 
-![](nobelprizes/Files/Years_Age_Cat.png)
+![](Years_Age_Cat.png)
 
 
 
