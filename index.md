@@ -1,4 +1,4 @@
-# Welcome to Analysis of Nobel Prizes through Visualizations
+# Analysis of Nobel Prizes through Visualizations
 
 ## Project Overview 
 
