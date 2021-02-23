@@ -8,21 +8,26 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 ## Table of Contents
 
-- [Portfolio Link](#portfolio-link)
+- [Dashboard Link](dashboard-link)
+- [Portfolio](#portfolio)
 - [Project Motivation](#project-motivation)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [License](#license)
 
-## Portfolio Link 
+## Dashboard Link
 
-[Link](https://lav30.github.io/nobelprizes/) to the portfolio landing page with a detailed exploratory analysis of the Nobel Prizes awarded between 1901 and 2016
+[Link](https://nobelprizedash.herokuapp.com) to the dashboard website, developed using [Plotly](https://plotly.com) and deployed using [Heroku](https://www.heroku.com/home) 
+
+## Portfolio  
+
+[Link](https://lav30.github.io/nobelprizes/) to the portfolio landing page with a detailed visual analysis of the Nobel Prizes awarded between 1901 and 2016
 
 ## Project Motivation
 [(Back to top)](#table-of-contents)
 
-Nobel Prizes, named after Alfred Nobel, are prizes awarrded in five different fields for contributions in Science, Medicine, Economics and Peace. Scientists and activists deemed to have made significant contributions to the advancement of science and the betterment of humankind are awarded these coveted prizes every year. This project focuses on exploring the different factors that have had a significant impact of who has received these awards and also focuses on the gender disparity in the total number of awards bestowed over a hundered years. 
+Nobel Prizes are prizes awarded in different fields for contributions in Science, Medicine, Economics and Peace. Scientists and activists deemed to have made significant contributions to the advancement of science and the betterment of humankind are awarded these coveted prizes every year. This project focuses on exploring the different factors that have had a significant impact of who has received these awards and also focuses on the gender disparity in the total number of awards bestowed over a hundered years. 
 
 ## Table of Contents
 [(Back to top)](#table-of-contents)
