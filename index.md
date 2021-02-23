@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-- Explored Nobel Prizes awarded over a period of a hundered years through detailed vizualizations.
+- Explored Nobel Prizes awarded over a period of a hundred years through detailed vizualizations.
 - Explored different vizualization methods such as Seaborn and Plotly to effectively display the data
 - Detailed analysis of what contributes to being a Nobel Prize awardee.
 
