@@ -73,8 +73,9 @@ These plots display the age at which individuals received the Nobel Prizes oveer
 ![Title](Images/a3.png?raw=true "Title")
 
 ### 12. Country and City based Bar Graphs
+These charts show the top 20 (by count) countries, cities and organizations that have received Nobel Prizes.
 
-
+![Title](Images/b1.png?raw=true "Title") ![Title](Images/b2.png?raw=true "Title") (![Title](Images/b3.png?raw=true "Title")
 
 
 ## General Observations 
