@@ -15,9 +15,9 @@ Data exploration through vizualization always provides interesting insights into
 
 The graphs below illustrate the number of missing values in each column. 
 
-a. ##### Bar Graph of Missing Values![](Images/i.png?raw=true "Bar Graph of Missing Values")
-b. ##### Matrix of Missing Values![](Images/j.png?raw=true "Title")
-c. ##### Correlation Heatmap ![](Images/k.png?raw=true "Title")
+#### a. Bar Graph of Missing Values![](Images/i.png?raw=true "Bar Graph of Missing Values")
+#### b.  Matrix of Missing Values![](Images/j.png?raw=true "Title")
+#### c.  Correlation Heatmap ![](Images/k.png?raw=true "Title")
 
 
 ### 2. Number of Nobel Prizes Awarded over the Years in all Categories
