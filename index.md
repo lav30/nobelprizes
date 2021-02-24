@@ -6,7 +6,6 @@
 - Explored different vizualization methods such as Seaborn and Plotly to effectively display the data
 - Detailed analysis of what contributes to being a Nobel Prize awardee.
 
-
 ## Data Exploration 
 
 Data exploration through vizualization always provides interesting insights into a dataset. This vizualization project has focused on Nobel prizes awarded over a period of more than a hundred years. These data explorations through bar graphs and scatter plots provide a clear picture of the background of the awardees. Several columns contain missing values and these can also be vizualized through Python modules. Although it is not apparent why there are so few female awardees over the years, key insights about the dataset can be obtainbed through age, gender and category related visualizations.
@@ -14,10 +13,11 @@ Data exploration through vizualization always provides interesting insights into
 ### 1. Missing Values Visualized 
 
 The graphs below illustrate the number of missing values in each column. 
+The empty lines inside the matix correspond to the missing values. The heatmap vizualizes the correlation between the missing values in each column.
 
 #### a. Bar Graph of Missing Values![](Images/i.png?raw=true "Bar Graph of Missing Values")
-#### b.  Matrix of Missing Values![](Images/j.png?raw=true "Title")
-#### c.  Correlation Heatmap ![](Images/k.png?raw=true "Title")
+#### b. Matrix of Missing Values![](Images/j.png?raw=true "Title")
+#### c. Correlation Heatmap ![](Images/k.png?raw=true "Title")
 
 
 ### 2. Number of Nobel Prizes Awarded over the Years in all Categories
@@ -68,11 +68,9 @@ Number of awards in each category displayed on a logarithmic scale.
 
 ### a. By Gender 
 
-- Males are more likely to be awarded a Nodel Prize in all categories.
+- Males are more likely to be awarded a Nobel Prize in all categories.
 - Females are more likely to receive a Nobel Prize in Peace or Literature
 - Females awarded too few Physics and Economics awards to produce a box plot. 
-
-
 
 
 ### b. By Category
