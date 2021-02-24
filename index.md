@@ -30,31 +30,31 @@ The graphs below illustrate the number of missing values in each column.
 ![Title](Images/b.png?raw=true "Title")
 
 
-#### 4. Number of Individuals who Received Awards in each Category (2006-2016)
+### 4. Number of Individuals who Received Awards in each Category (2006-2016)
 
 ![Title](Images/c.png?raw=true "Title")
 
-#### 5. Age Distribution of Nobel Prize Awardees
+### 5. Age Distribution of Nobel Prize Awardees
 
 
 ![Title](Images/e.png?raw=true "Title")
 
-#### 6. Relplot of Age vs Years, indexed by hue (Category) and circle size (Prize Share)
+### 6. Relplot of Age vs Years, indexed by hue (Category) and circle size (Prize Share)
 Scatterplot with varying point sizes and hues
 
 ![Title](Images/f.png?raw=true "Title")
 
-#### 7. Relplot of Age vs Years, indexed by hue (Category) and circle size (Gender)
+### 7. Relplot of Age vs Years, indexed by hue (Category) and circle size (Gender)
 Scatterplot with varying point sizes and hues
 Observation : Note the disparity between the number of men and women awarded over the years
 
 ![Title](Images/g.png?raw=true "Title")
 
-#### 8. Conditional Kernel Density Estimate for each Category
+### 8. Conditional Kernel Density Estimate for each Category
 
 ![Title](Images/h.png?raw=true "Title")
 
-#### 9. Stacked Histogram on a Log Scale
+### 9. Stacked Histogram on a Log Scale
 
 
 
