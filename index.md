@@ -39,12 +39,26 @@ The graphs below illustrate the number of missing values in each column.
 
 ![Title](Images/e.png?raw=true "Title")
 
-#### 6. Relplot of Years vs Age indexed by hue (Category) and circle size (Prize Share)
+#### 6. Relplot of Age vs Years, indexed by hue (Category) and circle size (Prize Share)
 Scatterplot with varying point sizes and hues
 
 ![Title](Images/f.png?raw=true "Title")
 
- ### 3. By Gender 
+#### 7. Relplot of Age vs Years, indexed by hue (Category) and circle size (Gender)
+Scatterplot with varying point sizes and hues
+Observation : Note the disparity between the number of men and women awarded over the years
+
+![Title](Images/g.png?raw=true "Title")
+
+#### 8. Conditional Kernel Density Estimate for each Category
+
+![Title](Images/h.png?raw=true "Title")
+
+#### 9. Stacked Histogram on a Log Scale
+
+
+
+### 3. By Gender 
 
 - Males are more likely to be awarded a Nodel Prize in all categories.
 - Females are more likely to receive a Nobel Prize in Peace or Literature
