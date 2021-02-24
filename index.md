@@ -68,6 +68,12 @@ Number of awards in each category displayed on a logarithmic scale.
 ### 11. Scatter plot of Age vs Years plotted for both Men and Women
 This plot is an extension of Figure 10.
 
+![Title](Images/a1.png?raw=true "Title")
+
+### 12. Line plots of Ages of Awardees in all Categories
+
+
+![Title](Images/a3.png?raw=true "Title")
 
 
 ## General Observations 
@@ -82,7 +88,7 @@ This plot is an extension of Figure 10.
 ### b. By Category
 
 - Median age is lower for women in Chemistry, Peace and Physics categories.
-- 
+- Medicine has the highest number of awardees among all categories. 
 
 
 ### c. By Age 
@@ -92,14 +98,12 @@ This plot is an extension of Figure 10.
 - The average age of Nobel Prize laureates has increased over the years. 
 
 
-
 ### d. By Country and City
 
 - Individuals born in the United States have been awarded the most number of prizes in Science categories.
 - Individuals from the University of California system have been awarded the highest number of prizes.
 - Individuals born in New York City have received the highest number of Nobel Prizes.
--
--
+
 
 
 
