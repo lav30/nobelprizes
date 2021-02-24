@@ -55,10 +55,17 @@ Observation : Note the disparity between the number of men and women awarded ove
 ![Title](Images/h.png?raw=true "Title")
 
 ### 9. Stacked Histogram on a Log Scale
+Number of awards in each category displayed on a logarithmic scale.
 
+![Title](Images/l.png?raw=true "Title")
 
+### 10. Relplot of Age vs Years plotted for both Genders 
 
-### 3. By Gender 
+![Title](Images/m.png?raw=true "Title")
+
+## General Observations 
+
+### a. By Gender 
 
 - Males are more likely to be awarded a Nodel Prize in all categories.
 - Females are more likely to receive a Nobel Prize in Peace or Literature
@@ -67,25 +74,20 @@ Observation : Note the disparity between the number of men and women awarded ove
 
 
 
-### 2. By Category
+### b. By Category
 
 - Median age lower for females in Chemistry, Peace and Physics.
 - 
 
 
-### 3. By Age 
+### c. By Age 
 
 - Economics and Literature have the highest median age to receive a Nobel Prize.
 - Physics laureates are the youngest among all prize categories.
 
 
-# Images
 
-
-
-
-
-### 4. General Observations 
+### d. By Country and City
 
 - Individuals born in the United States have been awarded the most number of prizes in Science categories.
 -
