@@ -11,7 +11,7 @@
 
 Data exploration through vizualization always provides interesting insights into a dataset. This vizualization project has focused on Nobel prizes awarded over a period of more than a hundred years. These data explorations through bar graphs and scatter plots provide a clear picture of the background of the awardees. Several columns contain missing values and these can also be vizualized through Python modules. Although it is not apparent why there are so few female awardees over the years, key insights about the dataset can be obtainbed through age, gender and category related visualizations.
 
-#### Missing Values Visualized 
+### Missing Values Visualized 
 
 The graphs below illustrate the number of missing values in each column. 
 
@@ -19,6 +19,10 @@ The graphs below illustrate the number of missing values in each column.
 2. ##### Matrix of Missing Values![](Images/j.png?raw=true "Title")
 3. ##### Correlation Heatmap ![](Images/k.png?raw=true "Title")
 
+ ### Number of Nobel Prizes Awarded over the Years in all Categories
+
+
+![Title](Images/a.png?raw=true "Title")
 
 
 ### 1. By Gender 
