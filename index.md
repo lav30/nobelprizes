@@ -11,7 +11,7 @@
 
 Data exploration through vizualization always provides interesting insights into a dataset. This vizualization project has focused on Nobel prizes awarded over a period of more than a hundred years. These data explorations through bar graphs and scatter plots provide a clear picture of the background of the awardees. Several columns contain missing values and these can also be vizualized through Python modules. Although it is not apparent why there are so few female awardees over the years, key insights about the dataset can be obtainbed through age, gender and category related visualizations.
 
-### Missing Values Visualized 
+### 1. Missing Values Visualized 
 
 The graphs below illustrate the number of missing values in each column. 
 
@@ -19,13 +19,32 @@ The graphs below illustrate the number of missing values in each column.
 2. ##### Matrix of Missing Values![](Images/j.png?raw=true "Title")
 3. ##### Correlation Heatmap ![](Images/k.png?raw=true "Title")
 
- ### Number of Nobel Prizes Awarded over the Years in all Categories
+ ### 2. Number of Nobel Prizes Awarded over the Years in all Categories
 
 
 ![Title](Images/a.png?raw=true "Title")
 
 
-### 1. By Gender 
+### 3. Number of Nobel Prizes Awarded by Gender (1996-2016)
+
+![Title](Images/b.png?raw=true "Title")
+
+
+#### 4. Number of Individuals who Received Awards in each Category (2006-2016)
+
+![Title](Images/c.png?raw=true "Title")
+
+#### 5. Age Distribution of Nobel Prize Awardees
+
+
+![Title](Images/e.png?raw=true "Title")
+
+#### 6. Relplot of Years vs Age indexed by hue (Category) and circle size (Prize Share)
+Scatterplot with varying point sizes and hues
+
+![Title](Images/f.png?raw=true "Title")
+
+ ### 3. By Gender 
 
 - Males are more likely to be awarded a Nodel Prize in all categories.
 - Females are more likely to receive a Nobel Prize in Peace or Literature
