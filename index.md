@@ -15,12 +15,12 @@ Data exploration through vizualization always provides interesting insights into
 
 The graphs below illustrate the number of missing values in each column. 
 
-1. ##### Bar Graph of Missing Values![](Images/i.png?raw=true "Bar Graph of Missing Values")
-2. ##### Matrix of Missing Values![](Images/j.png?raw=true "Title")
-3. ##### Correlation Heatmap ![](Images/k.png?raw=true "Title")
+a. ##### Bar Graph of Missing Values![](Images/i.png?raw=true "Bar Graph of Missing Values")
+b. ##### Matrix of Missing Values![](Images/j.png?raw=true "Title")
+c. ##### Correlation Heatmap ![](Images/k.png?raw=true "Title")
 
- ### 2. Number of Nobel Prizes Awarded over the Years in all Categories
 
+### 2. Number of Nobel Prizes Awarded over the Years in all Categories
 
 ![Title](Images/a.png?raw=true "Title")
 
@@ -36,13 +36,14 @@ The graphs below illustrate the number of missing values in each column.
 
 ### 5. Age Distribution of Nobel Prize Awardees
 
-
 ![Title](Images/e.png?raw=true "Title")
+
 
 ### 6. Relplot of Age vs Years, indexed by hue (Category) and circle size (Prize Share)
 Scatterplot with varying point sizes and hues
 
 ![Title](Images/f.png?raw=true "Title")
+
 
 ### 7. Relplot of Age vs Years, indexed by hue (Category) and circle size (Gender)
 Scatterplot with varying point sizes and hues
