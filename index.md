@@ -62,16 +62,15 @@ Number of awards in each category displayed on a logarithmic scale.
 ![Title](Images/l.png?raw=true "Title")
 
 ### 10. Relplot of Age vs Years plotted for both Genders 
+This plot is an extension of Figure 10.
 
 ![Title](Images/m.png?raw=true "Title")
 
-### 11. Scatter plot of Age vs Years plotted for both Men and Women
-This plot is an extension of Figure 10.
 
 ![Title](Images/a1.png?raw=true "Title")
 
-### 12. Line plots of Ages of Awardees in all Categories
-
+### 11. Line plots of Ages of Awardees in all Categories
+These plots display the age at which individuals received the Nobel Prizes oveer the years. 
 
 ![Title](Images/a3.png?raw=true "Title")
 
