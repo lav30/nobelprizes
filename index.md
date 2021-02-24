@@ -75,7 +75,7 @@ These plots display the age at which individuals received the Nobel Prizes oveer
 ### 12. Country and City based Bar Graphs
 These charts show the top 20 (by count) countries, cities and organizations that have received Nobel Prizes.
 
-![Title](Images/b1.png?raw=true "Title") ![Title](Images/b2.png?raw=true "Title") (![Title](Images/b3.png?raw=true "Title")
+![Title](Images/b1.png?raw=true "Title") ![Title](Images/b2.png?raw=true "Title") ![Title](Images/b3.png?raw=true "Title")
 
 
 ## General Observations 
@@ -107,7 +107,9 @@ These charts show the top 20 (by count) countries, cities and organizations that
 - Individuals born in New York City have received the highest number of Nobel Prizes.
 
 
+## Note 
 
+Based on the visual analyses performed above, the best road to receiving a Nobel Prize is to be a male from the United States, born in New York City and to have studied or worked in the University of California system. 
 
 
 
