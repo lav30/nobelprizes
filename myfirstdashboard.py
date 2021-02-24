@@ -43,7 +43,7 @@ fig6 = px.scatter(df, x="Year", y="Age", color="Category", hover_name='Sex')
 app.layout = html.Div(children=[
     # All elements from the top of the page
     html.Div([
-        html.H1(children='Scatter Plot with Animations', style={'text-align': 'center'})
+        html.H1(children='Scatter Plot with Animations'),
 
         html.Div(children='''
             Year and age related scatter plot with a sliding bar to show data over the years. Slide the bar from left to right to explore further.
