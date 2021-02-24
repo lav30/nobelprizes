@@ -46,7 +46,8 @@ Scatterplot with varying point sizes and hues
 
 
 ### 7. Relplot of Age vs Years, indexed by hue (Category) and circle size (Gender)
-Scatterplot with varying point sizes and hues
+Scatterplot with varying point sizes and hues.
+
 Observation : Note the disparity between the number of men and women awarded over the years
 
 ![Title](Images/g.png?raw=true "Title")
@@ -68,28 +69,30 @@ Number of awards in each category displayed on a logarithmic scale.
 
 ### a. By Gender 
 
-- Males are more likely to be awarded a Nobel Prize in all categories.
-- Females are more likely to receive a Nobel Prize in Peace or Literature
-- Females awarded too few Physics and Economics awards to produce a box plot. 
+- Men are more likely to be awarded a Nobel Prize in all categories.
+- Women are more likely to receive a Nobel Prize in Peace or Literature
+- Women awarded too few Physics and Economics awards to produce a box plot. 
 
 
 ### b. By Category
 
-- Median age lower for females in Chemistry, Peace and Physics.
+- Median age is lower for women in Chemistry, Peace and Physics categories.
 - 
 
 
 ### c. By Age 
 
-- Economics and Literature have the highest median age to receive a Nobel Prize.
+- The highest median ages to receive a Nobel Prize are in Economics and Literature.
 - Physics laureates are the youngest among all prize categories.
+- The average age of Nobel Prize laureates has increased over the years. 
 
 
 
 ### d. By Country and City
 
 - Individuals born in the United States have been awarded the most number of prizes in Science categories.
--
+- Individuals from the University of California system have been awarded the highest number of prizes.
+- Individuals born in New York City have received the highest number of Nobel Prizes.
 -
 -
 
