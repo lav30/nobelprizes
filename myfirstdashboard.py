@@ -31,22 +31,22 @@ df['Age'] = df['Year'] - df['Birth_Year']
 
 df.head()
 
-fig0 = px.scatter(df, x="Year", y="Age", color="Category", hover_name='Sex')
+fig0 = px.scatter(df, x="Year", y="Age", animation_frame="Year", color="Category", hover_name='Country',
+                  size_max=45, range_x=[1905, 2016], range_y=[15, 90])
 fig1 = px.scatter(df, x="Year", y="Age", color="Prize Share")
 fig2 = px.bar(df, x="Year", y="Age", color='Category')
 fig3 = px.box(df, x="Category", y="Age")
 fig4 = px.box(df, x="Sex", y="Age", points='all')
 fig5 = px.box(df, x="Sex", y="Age", color='Category')
-fig6 = px.scatter(df, x="Year", y="Age", animation_frame="Year", color="Category", hover_name='Country',
-                  size_max=45, range_x=[1905, 2016], range_y=[15, 90])
+fig6 = px.scatter(df, x="Year", y="Age", color="Category", hover_name='Sex')
 
 app.layout = html.Div(children=[
     # All elements from the top of the page
     html.Div([
-        html.H1(children='Scatterplot : Years and Ages of Nobel Awardees '),
+        html.H1(children='Scatter Plot with Animations', style={'text-align': 'center'})
 
         html.Div(children='''
-            Scatterplot generated over the years for all ages and genders, indexed by category names. 
+            Year and age related scatter plot with a sliding bar to show data over the years. Slide the bar from left to right to explore further.
         '''),
 
         dcc.Graph(
@@ -59,7 +59,8 @@ app.layout = html.Div(children=[
         html.H1(children='Scatterplot : Years and Ages of Nobel Awardees '),
 
         html.Div(children='''
-            Scatterplot generated over the years for all ages and genders, indexed by prize share fractions. 
+            Scatter plot to display age ranges across years, indexed by prize shares. Hover on the datapoints to explre them further. 
+            Prize shares indicate how many individuals shared the prize in a particular year.
         '''),
 
         dcc.Graph(
@@ -120,10 +121,10 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Scatter Plot with Animations'),
+        html.H1(children='Scatter Plot : Years and Ages of Nobel Awardees '),
 
         html.Div(children='''
-            Year and age related scatter plot with a sliding bar to show data over the years. Slide the bar from left to right.
+            Scatter plot to display age ranges across years, indexed by categories. Hover on the datapoints to explre them further. 
         '''),
 
         dcc.Graph(
