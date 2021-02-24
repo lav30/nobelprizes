@@ -9,6 +9,13 @@
 
 ## Data Exploration 
 
+Data exploration through vizualization always provides interesting insights into a dataset. This vizualization project has focused on Nobel prizes awarded over a period of more than a hundred years. These data explorations through bar graphs and scatter plots provide a clear picture of the background of the awardees. Several columns contain missing values and these can also be vizualized through Python modules. Although it is not apparent why there are so few female awardees over the years, key insights about the dataset can be obtainbed through age, gender and category related visualizations.
+
+#### Missing Values Visualized 
+
+
+
+
 
 ### 1. By Gender 
 
@@ -16,7 +23,7 @@
 - Females are more likely to receive a Nobel Prize in Peace or Literature
 - Females awarded too few Physics and Economics awards to produce a box plot. 
 
-# Images
+
 
 
 ### 2. By Category
