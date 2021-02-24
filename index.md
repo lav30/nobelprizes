@@ -15,9 +15,9 @@ Data exploration through vizualization always provides interesting insights into
 
 The graphs below illustrate the number of missing values in each column. 
 
-1. Bar Graph of Missing Values![](Images/i.png?raw=true "Bar Graph of Missing Values")
-2. Matrix of Missing Values![](Images/j.png?raw=true "Title")
-3. Correlation Heatmap ![](Images/k.png?raw=true "Title")
+1. ##### Bar Graph of Missing Values![](Images/i.png?raw=true "Bar Graph of Missing Values")
+2. ##### Matrix of Missing Values![](Images/j.png?raw=true "Title")
+3. ##### Correlation Heatmap ![](Images/k.png?raw=true "Title")
 
 
 
