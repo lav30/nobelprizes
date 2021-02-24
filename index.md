@@ -3,7 +3,7 @@
 ## Project Overview 
 
 - Explored Nobel Prizes awarded over a period of a hundred years through detailed vizualizations.
-- Explored different vizualization methods such as Seaborn and Plotly to effectively display the data
+- Explored different vizualization methods such as Seaborn and Plotly to effectively display the data.
 - Detailed analysis of what contributes to being a Nobel Prize awardee.
 
 ## Data Exploration 
@@ -107,7 +107,7 @@ These charts show the top 20 (by count) countries, cities and organizations that
 - Individuals born in New York City have received the highest number of Nobel Prizes.
 
 
-## Note 
+## Final Note 
 
 Based on the visual analyses performed above, the best road to receiving a Nobel Prize is to be a male from the United States, born in New York City and to have studied or worked in the University of California system. 
 
