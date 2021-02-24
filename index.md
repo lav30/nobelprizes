@@ -48,7 +48,7 @@ Scatterplot with varying point sizes and hues
 ### 7. Relplot of Age vs Years, indexed by hue (Category) and circle size (Gender)
 Scatterplot with varying point sizes and hues.
 
-Observation : Note the disparity between the number of men and women awarded over the years
+Note the disparity between the number of men and women awarded over the years
 
 ![Title](Images/g.png?raw=true "Title")
 
@@ -62,17 +62,19 @@ Number of awards in each category displayed on a logarithmic scale.
 ![Title](Images/l.png?raw=true "Title")
 
 ### 10. Relplot of Age vs Years plotted for both Genders 
-This plot is an extension of Figure 10.
+This plot is an extension of Figure 6, with the axes reversed.
 
 ![Title](Images/m.png?raw=true "Title")
 
-
-![Title](Images/a1.png?raw=true "Title")
 
 ### 11. Line plots of Ages of Awardees in all Categories
 These plots display the age at which individuals received the Nobel Prizes oveer the years. 
 
 ![Title](Images/a3.png?raw=true "Title")
+
+### 12. Country and City based Bar Graphs
+
+
 
 
 ## General Observations 
