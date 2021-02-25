@@ -68,12 +68,12 @@ This plot is an extension of Figure 6, with the axes reversed.
 
 
 ### 11. Line plots of Ages of Awardees in all Categories
-These plots display the age at which individuals received the Nobel Prizes oveer the years. 
+These plots display the age at which individuals received the Nobel Prizes over the years. 
 
 ![Title](Images/a3.png?raw=true "Title")
 
 ### 12. Country, City and Organization based Graphs
-These charts show the top 20 (by count) countries, cities and organizations that have received Nobel Prizes.
+These charts display the top 20 (by count) countries, cities and organizations that have received Nobel Prizes.
 
 #### a. Country of Birth 
 
