@@ -83,12 +83,12 @@ These charts show the top 20 (by count) countries, cities and organizations that
 #### b. City of Birth
 
 ![Title](Images/b2.png?raw=true "Title") 
-![Title](Images/a12.png?raw=true "Title") 
+![Title](Images/a13.png?raw=true "Title") 
 
 #### c. Organization Affiliated With 
 
 ![Title](Images/b3.png?raw=true "Title")
-![Title](Images/a13.png?raw=true "Title") 
+![Title](Images/a12.png?raw=true "Title") 
 
 ## General Observations 
 
@@ -121,7 +121,7 @@ These charts show the top 20 (by count) countries, cities and organizations that
 
 ## Final Note 
 
-Based on the visual analyses performed above, the most likely path to receiving a Nobel Prize is to be a male from the United States, to be born in New York City and to have studied or worked in the University of California system. 
+Based on the visual analyses performed above, the most favorable path to become a Nobel Prize laureate is to be a male from the United States, to be born in New York City and to have studied or worked in the University of California system. 
 
 
 
