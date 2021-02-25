@@ -72,11 +72,23 @@ These plots display the age at which individuals received the Nobel Prizes oveer
 
 ![Title](Images/a3.png?raw=true "Title")
 
-### 12. Country and City based Bar Graphs
+### 12. Country, City and Organization based Graphs
 These charts show the top 20 (by count) countries, cities and organizations that have received Nobel Prizes.
 
-![Title](Images/b1.png?raw=true "Title") ![Title](Images/b2.png?raw=true "Title") ![Title](Images/b3.png?raw=true "Title")
+#### a. Country of Birth 
 
+![Title](Images/b1.png?raw=true "Title") 
+![Title](Images/a11.png?raw=true "Title") 
+
+#### b. City of Birth
+
+![Title](Images/b2.png?raw=true "Title") 
+![Title](Images/a12.png?raw=true "Title") 
+
+#### c. Organization Affiliated With 
+
+![Title](Images/b3.png?raw=true "Title")
+![Title](Images/a13.png?raw=true "Title") 
 
 ## General Observations 
 
@@ -109,7 +121,7 @@ These charts show the top 20 (by count) countries, cities and organizations that
 
 ## Final Note 
 
-Based on the visual analyses performed above, the best road to receiving a Nobel Prize is to be a male from the United States, born in New York City and to have studied or worked in the University of California system. 
+Based on the visual analyses performed above, the most likely path to receiving a Nobel Prize is to be a male from the United States, to be born in New York City and to have studied or worked in the University of California system. 
 
 
 
