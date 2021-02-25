@@ -56,7 +56,7 @@ app.layout = html.Div(children=[
     ]),
     # New Div for all elements in the new 'row' of the page
     html.Div([
-        html.H1(children='Scatterplot : Years and Ages of Nobel Awardees '),
+        html.H1(children='Scatterplot : Years vs Ages of Nobel Laureates '),
 
         html.Div(children='''
             Scatter plot to display age ranges across years, indexed by prize shares. Hover on the datapoints to explre them further. 
@@ -108,7 +108,7 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Box Plot : Gender based Visualizations over the Categories'),
+        html.H1(children='Box Plot : Gender based Visualizations over all Categories'),
 
         html.Div(children='''
             Box plot displaying gender related vizualizations over all categories. Hover on the graphs for median, min, max, Q1 and Q3 values for each category and gender.
@@ -121,7 +121,7 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Scatter Plot : Years and Ages of Nobel Awardees '),
+        html.H1(children='Scatter Plot : Years vs Ages of Nobel Awardees '),
 
         html.Div(children='''
             Scatter plot to display age ranges across years, indexed by categories. Hover on the datapoints to explre them further. 
