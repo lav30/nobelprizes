@@ -40,6 +40,10 @@ The solid line represents the expected distribution and the histogram represents
 
 ![Title](Images/e.png?raw=true "Title")
 
+The above graph can be further elaborated to represent the age distribution of each category.
+
+![Title](Images/kde.png?raw=true "Title")
+
 
 ### 6. Relplot of Age vs Years, indexed by hue (Category) and circle size (Prize Share)
 Scatterplot with varying point sizes and hues
