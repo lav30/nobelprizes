@@ -34,7 +34,9 @@ The empty lines inside the matix correspond to the missing values. The heatmap v
 
 ![Title](Images/c.png?raw=true "Title")
 
-### 5. Age Distribution of Nobel Prize Awardees
+### 5. Age Distribution of Nobel Prize Awardees 
+This graph represents a kernel density estimate (kde), which is used to visualize the distribution of observations related to a particular feature.
+The solid line represents the expected distribution and the histogram represents the distribution of the 'Age' feature. This grapgh essentially represents the underlying probability density function of the distribution.
 
 ![Title](Images/e.png?raw=true "Title")
 
