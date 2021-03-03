@@ -10,7 +10,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 - [Dashboard Website](#dashboard-website)
 - [Portfolio](#portfolio)
-- [Launch Binder](#binder)
+- [Launch Binder](#launch-binder)
 - [Project Motivation](#project-motivation)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
