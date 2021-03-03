@@ -27,7 +27,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 ## Launch Binder
 
-Launch Binder by clicking on the binder button above to view the original Jupyter Notebook file and all the code used to generate the visualizations. 
+Launch Binder by clicking on the binder button above to view the original Jupyter Notebook file (Files folder) and all the code used to generate the visualizations. 
 
 ## Project Motivation
 [(Back to top)](#table-of-contents)
