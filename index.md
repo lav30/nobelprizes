@@ -2,13 +2,13 @@
 
 ## Project Overview 
 
-- Explored Nobel Prizes awarded over a period of a hundred years through detailed vizualizations.
-- Explored different EDA packages such as **Seaborn and Plotly** to effectively display the data insights.
-- Detailed visual analysis of what contributes to being a Nobel Prize awardee.
+- Explored Nobel Prizes awarded over a period of a hundred years through detailed visualizations.
+- Explored different data visualization packages such as **Seaborn and Plotly** to effectively display data insights.
+- Detailed visual analysis of factors contributing to being a Nobel Prize awardee.
 
 ## Data Exploration 
 
-Data exploration through vizualization always provides interesting insights into a dataset. This vizualization project has focused on Nobel prizes awarded over a period of more than a hundred years. These data explorations through bar graphs and scatter plots provide a clear picture of the background of the awardees. Several columns contain missing values and these can also be vizualized through Python modules. Although it is not apparent why there are so few female awardees over the years, key insights about the dataset can be obtainbed through age, gender and category related visualizations.
+Data exploration through visualization often provides interesting insights into a dataset. This visual exploration project focuses on Nobel prizes awarded over a period of more than a hundred years. These data explorations through bar graph, scatter plots and histograms provide a detailed and clear picture of the background of the awardees. Several columns contain missing values and these too can be vizualized through Python modules. Further study of the dataset provides key insights into the gender disparity between male and female laureates. Also, a comprehensive view about the dataset can be obtainbed through age, gender and category related visualizations.
 
 ### 1. Missing Values Visualized 
 
@@ -33,16 +33,19 @@ The heatmap vizualizes the correlation between the missing values in each column
 
 
 ### 2. Number of Nobel Prizes Awarded over the Years in all Categories
+It can be observed that the number of Nobel Prizes awarded over the years have increased. This increase in number is due to the introduction of the new Economics Prize in the 1960s and also due to increasing number of laureates who share a prize each year.
 
 ![Title](Images/a.png?raw=true "Title")
 
 
 ### 3. Number of Nobel Prizes Awarded by Gender (1996-2016)
+This graph displays the number of prizes awarded in a 20 year period.
 
 ![Title](Images/b.png?raw=true "Title")
 
 
 ### 4. Number of Individuals who Received Awards in each Category (2006-2016)
+This graph displays the number of prizes awarded in a ten year period, by category. Chemistry and Medicine prizes have the most prize shares.
 
 ![Title](Images/c.png?raw=true "Title")
 
@@ -70,7 +73,8 @@ Note the disparity between the number of men and women awarded over the years
 
 ![Title](Images/g.png?raw=true "Title")
 
-### 8. Conditional Kernel Density Estimate for each Category
+### 8. Conditional Kernel Density Estimate for Age for each Category
+This graph is an extension of plot 5 above. It displays the probability distribution underlying the 'Age' feature for all the categories. The shape of the density curve highlighted in white is essentially the same shape as the histogram, which displays the number of laureates in each age bin. 
 
 ![Title](Images/h.png?raw=true "Title")
 
@@ -80,7 +84,8 @@ Number of awards in each category displayed on a logarithmic scale.
 ![Title](Images/l.png?raw=true "Title")
 
 ### 10. Relplot of Age vs Years plotted for both Genders 
-This plot is an extension of Figure 6, with the axes reversed.
+This plot is an extension of Figure 6, with the axes reversed. 
+Each point on the both the graphs represents a Nobel Prize awardee categorized by age and year awarded. 
 
 ![Title](Images/m.png?raw=true "Title")
 
