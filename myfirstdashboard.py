@@ -46,10 +46,11 @@ fig6 = px.scatter(df, x="Year", y="Age", color="Category", hover_name='Sex')
 app.layout = html.Div(children=[
     # All elements from the top of the page
     html.Div([
-        html.H1(children='Animated Scatter Plot'),
+        html.H1(children='Age distribution over the years : By category '),
 
         html.Div(children='''
             Slide the bar from left to right to explore further.
+            Hover on each datapoint to observe the specifics of a particular awardee.
         '''),
 
         dcc.Graph(
@@ -59,11 +60,11 @@ app.layout = html.Div(children=[
     ]),
     # New Div for all elements in the new 'row' of the page
     html.Div([
-        html.H1(children='Scatterplot : Years vs Ages of Nobel Laureates '),
+        html.H1(children='Age distribution over the years : By prize share'),
 
         html.Div(children='''
             Hover on the datapoints to explore them further. 
-            Prize shares indicate how many individuals shared the prize in a particular year.
+            Prize shares indicate the number of individuals who shared the prize in a particular year.
         '''),
 
         dcc.Graph(
@@ -72,10 +73,11 @@ app.layout = html.Div(children=[
         ),
     ]),
     html.Div([
-        html.H1(children='Bar Graph : Years and Age '),
+        html.H1(children='Aggregate of category based awardees'),
 
         html.Div(children='''
-           Colors represent categories and number of bars represent number of awardees in a category for that year.
+           Hover on the bar graph to explore further.
+           Colors represent categories and the number of bars represent the number of awardees in a category for a specific year.
         '''),
 
         dcc.Graph(
@@ -85,7 +87,7 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Box Plot : Age'),
+        html.H1(children='Age variation over categories'),
 
         html.Div(children='''
              Hover on the graphs for median, min, max, Q1 and Q3 values for each category.
@@ -99,9 +101,10 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Box Plot : Gender'),
+        html.H1(children='Gender based analysis'),
 
         html.Div(children='''
+            These box plots display the distribution of age between male and female awardees. 
             Hover on the graphs for median, min, max, Q1 and Q3 values for each gender.
         '''),
 
@@ -112,7 +115,7 @@ app.layout = html.Div(children=[
   ]),
 
     html.Div([
-        html.H1(children='Gender based Visualizations over all Categories'),
+        html.H1(children='Distribution of age for males and females over all categories'),
 
         html.Div(children='''
             Hover on the graphs for median, min, max, Q1 and Q3 values for each category and gender.
@@ -125,7 +128,7 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Ages of Nobel Awardees over the Years '),
+        html.H1(children='Age distribution of Nobel awardees over the years '),
 
         html.Div(children='''
             Hover on the datapoints to explore them further. 
