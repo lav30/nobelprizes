@@ -7,7 +7,10 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+#external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+#external_stylesheets = ['https://cdn.jsdelivr.net/npm/water.css@2/out/water.css']
+
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
@@ -109,7 +112,7 @@ app.layout = html.Div(children=[
   ]),
 
     html.Div([
-        html.H1(children='Box Plot : Gender based Visualizations over all Categories'),
+        html.H1(children='Gender based Visualizations over all Categories'),
 
         html.Div(children='''
             Hover on the graphs for median, min, max, Q1 and Q3 values for each category and gender.
@@ -122,7 +125,7 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Scatter Plot : Years vs Ages of Nobel Awardees '),
+        html.H1(children='Ages of Nobel Awardees over the Years '),
 
         html.Div(children='''
             Hover on the datapoints to explore them further. 
