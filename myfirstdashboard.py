@@ -82,30 +82,33 @@ app.layout = html.Div(children=[
     ]),
 
     html.Div([
-        html.H1(children='Box Plot : Categories'),
+        html.H1(children='Box Plot : Age'),
 
         html.Div(children='''
-            Box plot displaying age related vizualizations for all categories. Hover on the graphs for median, min, max, Q1 and Q3 values for each category.
+             Hover on the graphs for median, min, max, Q1 and Q3 values for each category.
         '''),
 
         dcc.Graph(
             id='graph3',
             figure=fig3
         ),
-    ]),
+   
+    ], className='six columns'),
+], className='row'),
 
     html.Div([
         html.H1(children='Box Plot : Gender'),
 
         html.Div(children='''
-            Box plot displaying age related vizualizations for all genders. Hover on the graphs for median, min, max, Q1 and Q3 values for each gender.
+            Hover on the graphs for median, min, max, Q1 and Q3 values for each gender.
         '''),
 
         dcc.Graph(
             id='graph4',
             figure=fig4
         ),
-    ]),
+    ], className='six columns'),
+  ], className='row'),
 
     html.Div([
         html.H1(children='Box Plot : Gender based Visualizations over all Categories'),
