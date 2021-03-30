@@ -6,6 +6,12 @@
 - Explored different data visualization packages such as **Seaborn and Plotly** to effectively display data insights.
 - Detailed visual analysis of factors contributing to being a Nobel Prize awardee.
 
+## Initial Overview of the Dataset
+
+This image provides a high level overview of the dataset. The dataset has 969 observations with both numerical and categorical features. The pie charts show the distribution of a single feature and the stacked bar graph displays the prize share in all categories. 
+
+![](Images/overview.png?raw=true "Title")
+
 ## Data Exploration 
 
 Data exploration through visualization often provides interesting insights into a dataset. This visual exploration project focuses on Nobel prizes awarded over a period of more than a hundred years. These data explorations through bar graph, scatter plots and histograms provide a detailed and clear picture of the background of the awardees. Several columns contain missing values and these too can be vizualized through Python modules. Further study of the dataset provides key insights into the gender disparity between male and female laureates. Also, a comprehensive view about the dataset can be obtainbed through age, gender and category related visualizations.
