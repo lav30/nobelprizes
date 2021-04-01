@@ -67,7 +67,7 @@ The above graph can be further elaborated to represent the age distribution of e
 
 
 ### 6. Relplot of Age vs Years, indexed by hue (Category) and circle size (Prize Share)
-Scatterplot with varying point sizes and hues
+Scatterplot with varying point sizes and hues. Each data point represents an awardee filtered by age and year. The size of the point indicates the fraction of the prize received by the awardee. 
 
 ![Title](Images/f.png?raw=true "Title")
 
@@ -124,8 +124,8 @@ These charts display the top 20 (by count) countries, cities and organizations t
 ### a. By Gender 
 
 - Men are more likely to be awarded a Nobel Prize in all categories.
-- Women are more likely to receive a Nobel Prize in Peace or Literature
-- Women awarded too few Physics and Economics awards to produce a box plot. 
+- Women are more likely to receive a Nobel Prize in Peace or Literature.
+- Women awarded too few Physics and Economics awards to provide a meaningful analysis. 
 
 
 ### b. By Category
@@ -150,7 +150,6 @@ These charts display the top 20 (by count) countries, cities and organizations t
 
 ## Final Note 
 
-Based on the visual analyses performed above, the most favorable path to become a Nobel Prize laureate is to be a male from the United States, to be born in New York City and to have studied or worked in the University of California system. 
-
+Based on the visual analyses performed above, the most favorable path to become a Nobel Prize laureate is to be a male from the United States, born in New York City and to have studied or worked in the University of California system or Harvard University. 
 
 
