@@ -13,7 +13,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 - [Launch Binder](#launch-binder)
 - [Project Motivation](#project-motivation)
 - [Table of Contents](#table-of-contents)
-- [Installation](#installation)
+- [Modules](#modules)
 - [Dataset](#dataset)
 - [License](#license)
 
@@ -27,14 +27,14 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 ## Launch Binder
 
-Launch Binder by clicking on the binder button above to view the original Jupyter Notebook file (Files folder) and all the code used to generate the visualizations. 
+[Launch Binder](https://mybinder.org/v2/gh/lav30/nobelprizes/main) to view the original Jupyter Notebook file and all the code used to generate the visualizations. 
 
 ## Project Motivation
 [(Back to top)](#table-of-contents)
 
-Nobel Prizes are prizes awarded in different fields for contributions in Science, Medicine, Economics and Peace. Scientists and activists deemed to have made significant contributions to the advancement of science and the betterment of humankind are awarded these coveted prizes every year. This project focuses on exploring the different factors that have had a significant impact on who has received these awards and also focuses on the gender disparity in the total number of awards bestowed over a hundered years. 
+Nobel Prizes are prestigious prizes awarded in different fields for contributions in Science, Medicine, Economics and Peace. Scientists and activists deemed to have made significant contributions to the advancement of science and the betterment of humanity are awarded these coveted prizes every year. This project focuses on exploring the different factors that have had a significant impact on who has received these awards and also focuses on the gender disparity in the total number of awards bestowed over a hundered years. 
 
-## Installation
+## Modules 
 [(Back to top)](#table-of-contents)
 
 Majority of the work done on Jupyter Notebook and hosted on nbviewer
