@@ -10,7 +10,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 - [Project Motivation](#project-motivation)
 - [Dashboard Website](#dashboard-website)
-- [Portfolio](#portfolio-detailed-exploratory-analysis)
+- [Detailed Exploratory Analysis](#detailed-exploratory-analysis)
 - [Launch Binder](#launch-binder)
 - [Table of Contents](#table-of-contents)
 - [Modules](#modules)
@@ -27,7 +27,7 @@ Nobel Prizes are prestigious prizes awarded in different fields for contribution
 
 [Link](https://nobelprizedash.herokuapp.com) to the dashboard website, developed using [Plotly](https://plotly.com) and deployed using [Heroku](https://www.heroku.com/home) 
 
-## Portfolio : Detailed Exploratory Analysis
+## Detailed Exploratory Analysis
 
 [Link](https://lav30.github.io/nobelprizes/) to the portfolio landing page with a detailed visual analysis of the Nobel Prizes awarded between 1901 and 2016.
 
