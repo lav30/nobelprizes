@@ -10,7 +10,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 - [Project Motivation](#project-motivation)
 - [Dashboard Website](#dashboard-website)
-- [Portfolio](#portfolio)
+- [Portfolio](#portfolio-detailed-exploratory-analysis)
 - [Launch Binder](#launch-binder)
 - [Table of Contents](#table-of-contents)
 - [Modules](#modules)
@@ -23,7 +23,7 @@ Exploration of Nobel Prizes awarded between 1901 and 2016
 
 Nobel Prizes are prestigious prizes awarded in different fields for contributions in Science, Medicine, Economics and Peace. Scientists and activists deemed to have made significant contributions to the advancement of science and the betterment of humanity are awarded these coveted prizes every year. This project focuses on exploring the different factors that have had a significant impact on who has received these awards and also focuses on the gender disparity in the total number of awards bestowed over a hundered years. 
 
-## Dashboard Website : Interactive Visualizations
+## Dashboard Website
 
 [Link](https://nobelprizedash.herokuapp.com) to the dashboard website, developed using [Plotly](https://plotly.com) and deployed using [Heroku](https://www.heroku.com/home) 
 
